@@ -11,3 +11,7 @@ This repository illustrates my skills and experience in data analysis, visualiza
 #### Text analysis and insights 💬
    - Text analysis preprocessing </small>
    - Sentiment analysis and topic modeling
+
+License and Copyright
+-----------------------
+© 2024 Noor de Bruijn. All rights reserved.
