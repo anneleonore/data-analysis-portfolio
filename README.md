@@ -12,6 +12,9 @@ This repository illustrates my skills and experience in data analysis, visualiza
    - Text analysis preprocessing </small>
    - Sentiment analysis and topic modeling
 
+
+<a href="https://anneleonore.github.io/data-analysis-portfolio/data-analysis-portfolio.ipynb" style="text-decoration: none; color: inherit;">Access the full analysis here.</a>
+
 License and Copyright
 -----------------------
 © 2024 Noor de Bruijn. All rights reserved.
