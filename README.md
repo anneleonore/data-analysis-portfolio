@@ -13,7 +13,7 @@ This repository illustrates my skills and experience in data analysis, visualiza
    - Sentiment analysis and topic modeling
 
 
-<a href="https://anneleonore.github.io/data-analysis-portfolio/data-analysis-portfolio.ipynb" style="text-decoration: none; color: inherit;">Access the full analysis here.</a>
+<a href="https://www.github.com/anneleonore/data-analysis-portfolio/data-analysis-portfolio.ipynb" style="text-decoration: none; color: inherit;">Access the full analysis here.</a>
 
 License and Copyright
 -----------------------
