@@ -2,15 +2,15 @@
 This repository illustrates my skills and experience in data analysis, visualization, and ML models.
 
 ## Key sections
-#### Data processing and visualization 🔍
+#### Data Processing and Visualization 🔍
    - Data cleaning, preprocessing, and transformation
    - Common data visualization techniques
-#### Data science and machine learning 🤖
-   - Building and training predictive models
-   - Machine learning algorithms
-#### Text analysis and insights 💬
-   - Text analysis preprocessing </small>
-   - Sentiment analysis and topic modeling
+#### Traditional Machine Learning and Deep Learning 🤖
+   - Traditional machine learning models
+   - Deep learning models
+#### Text Sentiment and Topic Modeling 💬
+   - Text sentiment analysis
+   - Topic modeling and text classification
 
 
 <a href="https://github.com/anneleonore/data-analysis-portfolio/blob/main/data-analysis-portfolio.ipynb" style="text-decoration: none; color: inherit;">Access the full analysis here.</a>
