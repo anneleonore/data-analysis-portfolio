@@ -10,5 +10,5 @@ This repository illustrates my skills and experience in data analysis, visualiza
    - Building and training predictive models
    - Machine learning algorithms
 3. ### Text analysis and insights 💬
-   ##### - Text analysis preprocessing
-   #### - Sentiment analysis and topic modeling
+   <small> - Text analysis preprocessing </small>
+   ##### - Sentiment analysis and topic modeling
