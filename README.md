@@ -1,9 +1,7 @@
 # Data Analysis Portfolio📊
-=====================================
 This repository illustrates my skills and experience in data analysis, visualization, and ML models.
 
 ## Key sections
----------------
 #### Data processing and visualization 🔍
    - Data cleaning, preprocessing, and transformation
    - Common data visualization techniques
